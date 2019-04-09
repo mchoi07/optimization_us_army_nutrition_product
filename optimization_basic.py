@@ -1,5 +1,3 @@
-####### Homework 11 Question 2 using PuLP ######
-
 # ---------- Import modules -----------
 
 #import PuLP and pandas modules
